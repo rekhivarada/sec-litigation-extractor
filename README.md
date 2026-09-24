@@ -96,3 +96,9 @@ Applied per case, after parsing:
 - Regex-based section/money detection is heuristic and can miss non-standard filing formats.
 - Runs entirely locally against Ollama — extraction quality is bounded by the chosen model (`qwen2.5:7b` by default).
 - Rate-limited to SEC's guidelines, so large multi-year, multi-company runs will take time.
+
+## 8. Disclaimer
+
+The views, analysis, and conclusions expressed in this dashboard/report are solely those of the author and do not necessarily reflect the official position, policy, or views of the Federal Reserve Bank or the Federal Reserve System.
+
+This dashboard is for informational purposes only and does not constitute official economic data, forecasting, or policy guidance.
